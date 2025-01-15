@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import imageOff from "../assets/imageOff.png";
+import imageOff from "../assets/imageOFF.png";
 import imageOn from "../assets/imageOn.png";
 function Light() {
     const [light, setlight] = useState(false)
